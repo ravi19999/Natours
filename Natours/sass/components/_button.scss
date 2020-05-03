@@ -22,7 +22,19 @@
 
 .btn--white {
   background-color: $color-white;
-  color: #777;
+  color: $color-grey-dark;
+
+  &::after {
+    background-color: $color-white;
+  }
+}
+.btn--green {
+  background-color: $color-primary;
+  color: $color-white;
+
+  &::after {
+    background-color: $color-primary;
+  }
 }
 
 .btn::after {
