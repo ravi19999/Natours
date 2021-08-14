@@ -7,6 +7,6 @@
 - SASS
 - BEM architecture
 - Multiple Breakpoints
-- Compatible with phones, tablets and PCs
+- Compatible with phones, tablets and PCs.
 - Desktop first design
 - Hosted at https://ravi19999.github.io/Tours/
